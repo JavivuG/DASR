@@ -2,12 +2,12 @@
 *.mp4
 *.docx
 *.doc
-*.	mkv
+*.mkv
 /Practica_guiada_1/entregado.png
 /Practica_guiada_2/entregado.png
 /Practica_guiada_2/DISEÑO, ADMINISTRACIÓN Y SEGURIDAD DE REDES (1-233-545-46934-1-2023)_ DNS y NAT_files/*
 /Practica_1/DISEÑO, ADMINISTRACIÓN Y SEGURIDAD DE REDES (1-233-545-46934-1-2023)_ Ejercicio 1_ VTP & PVST_files/*
-/Practica 0/guion_files/*
+/Practica_0/guion_files/*
 
 
 
