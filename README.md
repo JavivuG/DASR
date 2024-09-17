@@ -10,7 +10,7 @@ Este repositorio contiene el código y la documentación del proyecto final de l
 
 ## Descripción
 
-El objetivo principal del proyecto es diseñar, implementar y asegurar una red informática eficiente y segura. Este proyecto abarca desde la topología de red hasta la configuración de dispositivos y la implementación de políticas de seguridad.
+En este repositorio están las prácticas guiadas y las prácticas normales que constan de ejercicios de aprendizaje de las distintas tecnologias y protocolos de red que se usan en el proyecto final de la asignatura. Este proyecto final es bastante elaborado y, como he mencionado, consta de la gran mayoría de las tecnologías aprendidas.
 
 ## Objetivos
 
