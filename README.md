@@ -14,9 +14,9 @@
 </div>
 
 <p align="center">
-  <img src="Practica_2/normal_ping1.png" alt="Topología redundante con HSRP y PVST en Packet Tracer, con la simulación de un ping entre VLAN" width="720">
+  <img src="docs/screenshots/topologia-final.png" alt="Diagrama lógico general de la red: núcleo (CORE) conectado a las sedes VLL, SLM, LEN y RGS, al CPD, la red de gestión, la DMZ, Internet y la extranet con SCAYLE, con el direccionamiento de cada bloque" width="720">
   <br>
-  <sub>Práctica 2: topología redundante con HSRP (router activo/en espera por VLAN) y raíces PVST, simulando un ping entre VLAN 10 y VLAN 30.</sub>
+  <sub>Topología del proyecto final (extraída de la memoria).</sub>
 </p>
 
 ## En pocas palabras
@@ -72,6 +72,7 @@ Cada práctica guiada contiene la actividad de Packet Tracer (`.pka`) y el PDF d
 DASR/
 ├── Practica_0/ … Practica_2/          # Prácticas evaluables (.pkt + guion/entrega en PDF)
 ├── Practica_guiada_1/ … _8/           # Prácticas guiadas (.pka + capturas en PDF)
+├── docs/screenshots/                 # Imagen de la topología para este README
 └── Proyecto/
     ├── Hito_1/memoria_Grupo4.pdf
     ├── Hito_2/memoria_grupo4.pdf
@@ -98,7 +99,6 @@ Abre [`Proyecto/Entrega_final/red_Grupo4.pkt`](Proyecto/Entrega_final/red_Grupo4
 
 - Es una red simulada en Packet Tracer, no un despliegue sobre equipos físicos.
 - No se ha comprobado la compatibilidad con versiones concretas de Packet Tracer.
-- El repositorio no incluye una imagen de la topología del proyecto final; la de arriba corresponde a la práctica 2.
 
 ## Autoría
 
